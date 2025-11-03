@@ -36,8 +36,8 @@ This space documents my journey through **Learn2Cloud**, **AWS**, **Terraform**,
 
 ### 📫 Connect
 Follow my progress and projects on:
-- YouTube: [BuiltByVision](https://www.youtube.com/@BuiltByVision)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 
+- 
 
 ---
 
